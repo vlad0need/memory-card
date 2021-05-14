@@ -49,7 +49,7 @@ let disableCard = () => {
         i++
         console.log(i)
         resetBoard()
-        if (i == 1) {
+        if (i == 6) {
             start();
         }
 
